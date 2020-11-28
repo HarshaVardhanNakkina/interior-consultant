@@ -51,8 +51,6 @@ main {
 	display: flex;
 	align-items: center;
 	width: max-content;
-	background: url(./arrow-norrow-right.svg) top 1px right no-repeat;
-	padding-right: 1.875rem;
 }
 
 .intro__example {
